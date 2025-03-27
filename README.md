@@ -4,3 +4,5 @@ These are the two external libraries required:
 
     pyserial for serial port communication
     PySimpleGUI for the graphical user interface
+
+pip install -r requirements.txt    
